@@ -1,4 +1,4 @@
-# 🛒 AutomationFinaleProject-April
+# 🛒 Automation DemoE-commerceSite
 
 This project is an automated end-to-end test suite for an e-commerce demo site using **Selenium WebDriver**, **TestNG**, and **Java**, with data integration from a **MySQL** database.
 
