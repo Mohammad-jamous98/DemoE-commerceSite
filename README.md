@@ -26,7 +26,7 @@ This automation framework covers:
 The project connects to a local MySQL database `classicmodels` to retrieve user credentials and other personal data for login/registration steps.
 
 ```sql
-SELECT * FROM customers WHERE customerNumber = 555;
+SELECT * FROM customers WHERE customerNumber = ???;
 ```
 
 ## 📁 Project Structure
