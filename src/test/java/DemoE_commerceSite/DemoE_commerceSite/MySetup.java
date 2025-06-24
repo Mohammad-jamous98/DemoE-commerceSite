@@ -43,7 +43,7 @@ public class MySetup {
 	
 	
 	public void SetUp() throws SQLException {
-		con = DriverManager.getConnection("jdbc:mysql://localhost:3306/classicmodels", "root", "246846");
+		con = DriverManager.getConnection("jdbc:mysql://localhost:3306/classicmodels", "????", "?????");
 		driver.get(TheWebSiteUrl);
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(3));
 		driver.manage().window().maximize();
